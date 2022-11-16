@@ -1,2 +1,2 @@
-# -Graduation-Design
+# Graduation-Design
 Bachelor Graduation Design 
